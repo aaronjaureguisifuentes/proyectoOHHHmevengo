@@ -1,0 +1,29 @@
+<section id="Compradores" class="padded">
+    <div class="container">
+        <h2>Compradores</h2>   
+        <div class="row">
+            <div class="col-md-8">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Cod</th>
+                            <th>Nombre</th>
+                            <th>Producto vendido</th>
+                            <th>Ciudad</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-colaboradores">
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-4">
+                <h3 id="colaboradores-nombres"></h3>
+                <h4 id="colaboradores-cargo"></h4>
+                <img src="" alt="" class="img-fluid" id="logos-compradores">
+  </div><!--container-->
+  </section>
+
+  <script>
+    $.getScript("componentes/compradores.js");
+</script>

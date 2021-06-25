@@ -1,0 +1,185 @@
+
+	[
+			{
+				"id" : "FB1",
+				"nombre" : "Rosquillas",
+				"precio": "S/1",
+				"existencias" : 43,
+				"categoría" : "Panes",
+				"foto" : "logos/" ,
+				"especialidad" : true
+			},
+			{
+				"id" : "FB2",
+				"precio": "S/22",
+				"nombre" : "Tarta de chocolate",
+				"existencias" : 23,
+				"categoría" : "Tartas", 
+				"foto" : "logos/" ,
+				"especialidad" : true
+			},
+			{
+				"id" : "FB3",
+				"precio": "S/3",
+				"nombre" : "Baguette",
+				"existencias" : 34,
+				"categoría" : "Panes",
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+
+			{
+				"id" : "FB4",
+				"precio": "S/2",
+				"nombre" : "Pan frances",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB5",
+				"precio": "s/5",
+				"nombre" : "pay de manzana",
+				"existencias" : 34,
+				"categoría" : "tortas", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB6",
+				"precio": "S/5",
+				"nombre" : "Pan de Yema",
+				"existencias" : 34,
+				"categoría" : "Panes",
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB7",
+				"precio": "S/40",
+				"nombre" : "Pay de limon",
+				"existencias" : 34,
+				"categoría" : "Tortas", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB8",
+				"precio": "S/3",
+				"nombre" : "Carioca",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB9",
+				"precio": "S/15",
+				"nombre" : "Mousse de Frutas",
+				"existencias" : 34,
+				"categoría" : "Postres", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB10",
+				"precio": "S/3",
+				"nombre" : "Karamanduka",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB11",
+				"precio": "S/10",
+				"nombre" : "Soufflé de Mango y Coco",
+				"existencias" : 34,
+				"categoría" : "Postres", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB12",
+				"precio": "S/3",
+				"nombre" : "Roseta",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB13",
+				"precio": "S/20",
+				"nombre" : "Pastel de Zanahoria",
+				"existencias" : 34,
+				"categoría" : "tortas", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+
+			{
+				"id" : "FB314",
+				"precio": "S/3",
+				"nombre" : " Pan de Mais",
+				"existencias" : 34,
+				"categoría" : "Panes",
+				"foto" : "logos/" ,  
+				"especialidad" : true
+			},
+			{
+				"id" : "FB15",
+				"precio": "S/16",
+				"nombre" : "Pastes de Matcha",
+				"existencias" : 34,
+				"categoría" : "Tortas", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB16",
+				"precio": "S/3",
+				"nombre" : "Pan de Kiwicha",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/kiwicha.jpg" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB17",
+				"precio": "S/13",
+				"nombre" : "Cheesecake reinventado",
+				"existencias" : 34,
+				"categoría" : "Postres",
+				"foto" : "logos/" ,  
+				"especialidad" : true
+			},
+			{
+				"id" : "FB18",
+				"precio": "S/2",
+				"nombre" : "Pan de Avena",
+				"existencias" : 34,
+				"categoría" : "Panes", 
+				"foto" : "logos/" , 
+				"especialidad" : true
+			},
+			{
+				"id" : "FB19",
+				"precio": "S/34",
+				"nombre" : "Tarta de Frambuesa y Queso crema",
+				"existencias" : 34,
+				"categoría" : "Tortas",
+				"foto" : "logos/" ,  
+				"especialidad" : true
+			},
+			{
+				"id" : "FB20",
+				"precio": "S/1.50",
+				"nombre" : "Pan Caracol",
+				"existencias" : 34,
+				"categoría" : "Panes",
+				"foto" : "logos/" ,  
+				"especialidad" : true
+			}
+	]
